@@ -11,7 +11,7 @@ Source: http://jin.ece.ufl.edu/papers/HASS2018_IoT_Survey.pdf
 Emphasis will be given to Network and Perception layers
 
 
-    * Application Layer:
+Markup:    * Application Layer:
         * Code Injection
         * Buffer Overflow
         * Sensitive Data Permission/Manipulation
