@@ -11,30 +11,30 @@ Source: http://jin.ece.ufl.edu/papers/HASS2018_IoT_Survey.pdf
 Emphasis will be given to Network and Perception layers
 
 
-    - Application Layer:
-        - Code Injection
-        - Buffer Overflow
-        - Sensitive Data Permission/Manipulation
-        - Phishing Attack
-        - Authentication and Authorization
-    - Middleware Layer:
-        - Flooding Attack in Cloud
-        - Cloud Malware Injection
-        - Signature Wrapping Attac
-        - Web Browser Attack
-        - SQL Injection Attack
-    - Network Layer:
-        - DoS Attack
-        - Sybil Attack
-        - Sinkhole Attack
-        - Sniffing Attack
-        - Traffic Analysis
-        - Replay Attack
-        - Man-in-the-Middle Attack
-    - Perception Layer:
-        - Unauthorized Access to the Tags
-        - Tag Cloning
-        - Eavesdropping
-        - RF Jamming
-        - Spoofing Attack
-        - Sleep Deprivation Attack
+    * Application Layer:
+        * Code Injection
+        * Buffer Overflow
+        * Sensitive Data Permission/Manipulation
+        * Phishing Attack
+        * Authentication and Authorization
+    * Middleware Layer:
+        * Flooding Attack in Cloud
+        * Cloud Malware Injection
+        * Signature Wrapping Attac
+        * Web Browser Attack
+        * SQL Injection Attack
+    * Network Layer:
+        * DoS Attack
+        * Sybil Attack
+        * Sinkhole Attack
+        * Sniffing Attack
+        * Traffic Analysis
+        * Replay Attack
+        * Man-in-the-Middle Attack
+    * Perception Layer:
+        * Unauthorized Access to the Tags
+        * Tag Cloning
+        * Eavesdropping
+        * RF Jamming
+        * Spoofing Attack
+        * Sleep Deprivation Attack
