@@ -8,6 +8,8 @@ Security best practices for IoT based SCADA sensors, increasing attack cost
 # Attack List
 Source: http://jin.ece.ufl.edu/papers/HASS2018_IoT_Survey.pdf
 Emphasis will be given to Network and Perception layers
+
+
     - Application Layer:
         - Code Injection
         - Buffer Overflow
